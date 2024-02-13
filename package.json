@@ -11,7 +11,7 @@
   "author": "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)",
   "homepage": "https://github.com/username/repo",
   "repository": "github:username/repo",
-  "license": "",
+  "license": "MIT",
   "keywords": [],
   "description": "",
   "devDependencies": {
